@@ -1,0 +1,19 @@
+{
+  "short_name": "SunTek",
+  "name": "SunTek",
+  "icons": [
+    {
+      "src": "sunteksys_logo192x192.png",
+      "sizes": "192X192",
+      "type": "image/png"
+    },
+    {
+      "src": "sunteksys_logo512x512.png",
+      "sizes": "192X192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone"
+}
